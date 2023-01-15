@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emiridbest
-- 👀 I’m interested in blocckchain tech
-- 🌱 I’m currently learning solidity
+- 👀 I’m interested in blocckchain tech, healthcare economics and telemedicine.
 - 💞️ I’m looking to collaborate on healthcare and fintech solutions
 - 📫 How to reach me http://twitter.com/emiridbest
 
