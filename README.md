@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @emiridbest
 - 👨‍💻 Blockchain Developer with a passion for innovation and a track record of success:
-  - 🏆 Winner of 4 hackathons, with 3 more in progress that I'm leading as a frontrunner!
+  - 🏆 Winner of 6 hackathons!
   - 💼 Experienced in Web3.js, Ethers.js, Hardhat, Truffle, and more.
   - 🧱 Expertise in Solidity, TypeScript, JavaScript, Python, React, and Node.js.
 - 🌐 I'm deeply interested in blockchain technology, healthcare economics, and telemedicine.
