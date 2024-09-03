@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @emiridbest
+- 👋 Hi, I'm Emiri Udogwu, Founder of Esusu.
 - 👨‍💻 Blockchain Developer with a passion for innovation and a track record of success:
   - 🏆 Winner of 10 hackathons!
   - 💼 Experienced in Web3.js, Ethers.js, Foundry, Hardhat, Truffle, and more.
