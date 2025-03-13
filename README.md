@@ -13,15 +13,23 @@
 ## 💻 Tech Stack
 ```
 // Smart Contract Development
-Solidity | Foundry | Hardhat | Truffle 
+Solidity | Foundry | Hardhat | Truffle | Remix | Atlas |
 ```
 ```
 // Frontend & Backend
-TypeScript | JavaScript | React | Node.js | Python | SQL | MongoDB
+TypeScript | JavaScript | React | Node.js | Python | SQL | MongoDB | Flask | PySpark | TailwindCSS | Shadcn UI 
 ```
 ```
 // Blockchain Tools
-Web3.js | Ethers.js | Viem | OpenZeppelin | ChainLink | Pyth | SocialConnect 
+Web3.js | Ethers.js | Viem | OpenZeppelin | ChainLink | Pyth | SocialConnect | Wagmi | Alchemy | Infura
+```
+```
+// Data Science & Machine Learning Tools
+Hadoop | Spark | MapReduce | RStudio | Tableau | Scikit-Learn | TensorFlow | GOAT SDK | ElizaOS | RAG
+```
+```
+// Deployment Tools
+Vercel | Netlify | Heroku | AWS | Azure | Render | Docker | Firebase
 ```
 
 🔭 Current Focus
