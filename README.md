@@ -1,6 +1,6 @@
 # 👨‍💻 Emiri Udogwu
 
-> Blockchain Developer & Founder of Esusu | Building the Future of DeFi
+> Data Scientist, Blockchain Developer & Founder of Esusu | Building the Future of DeFi
 
 [![Twitter](https://img.shields.io/twitter/follow/emiridbest?style=social)](https://twitter.com/emiridbest)
 [![GitHub](https://img.shields.io/github/followers/emiridbest?style=social)](https://github.com/emiridbest)
