@@ -64,17 +64,6 @@ Founder of [**Esusu**](https://github.com/emiridbest/esusu) — a decentralised 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emiridbest&amp;show_icons=true&amp;theme=radical">
 ---
 
-## 🏆 Grants & Recognition
-
-| Award | Project | Amount |
-|---|---|---|
-| NDDC MSc Scholarship | Coventry University | $40,000 |
-| Prezenti Grant | Esusu | $10,000 |
-| GoodDollar Builders 2 | Esusu | $12,500 |
-| GoodDollar Builders 1 | Esusu | $3,255 |
-| Gitcoin 23 | Esusu | $622 |
-| Coinbase Developer Hall of Fame | — | 🏅 |
-
 ---
 
 ## Publications
